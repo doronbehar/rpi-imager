@@ -134,6 +134,10 @@
         <source>Controlled Folder Access seems to be enabled. Please add rpi-imager.exe to the list of allowed apps and try again.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Controlled Folder Access seems to be enabled. Please add rpi-imager.exe to the list of allowed apps and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DriveFormatThread</name>
@@ -271,6 +275,18 @@
     <message>
         <source>starting extraction</source>
         <translation>avvio estrazione</translation>
+    </message>
+    <message>
+        <source>Error reading from image file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error writing to device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to read complete image file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error reading from image file</source>
